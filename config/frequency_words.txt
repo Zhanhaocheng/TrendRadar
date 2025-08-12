@@ -1,5 +1,4 @@
 DeepSeek
-梁文锋
 
 华为
 HarmonyOS
@@ -8,7 +7,6 @@ HarmonyOS
 DJI
 
 宇树
-王兴兴
 
 京东
 
@@ -16,6 +14,10 @@ DJI
 
 字节
 bytedance
+
+腾讯
+
+阿里
 
 特斯拉
 马斯克
@@ -25,7 +27,6 @@ Microsoft
 
 英伟达
 NVIDIA
-黄仁勋
 
 AMD
 
@@ -49,13 +50,11 @@ ios
 ai
 !gai
 人工智能
+ai制药
 
 自动驾驶
 
 机器人
-
-国产
-中国
 
 美国
 日本
@@ -78,3 +77,4 @@ ai
 宇宙
 飞船
 航空
+
