@@ -55,7 +55,5 @@ platforms:
     name: "澎湃新闻"
   - id: "cls-hot"
     name: "财联社热门"
-  - id: "_36kr"
-    name: "36氪"
   - id: "gelonghui"
     name: "格隆汇"
